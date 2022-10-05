@@ -1,0 +1,1 @@
+This recipe project will be used to demonstrate the basic HTML skills that have been learned up until now in order to, you guessed it, display a recipe.
