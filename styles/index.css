@@ -17,3 +17,8 @@ li {
   margin: 50px;
   font-size: 2rem;
 }
+
+a {
+  text-decoration: none;
+  color: #F50C59;
+}
