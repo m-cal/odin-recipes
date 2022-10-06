@@ -1,0 +1,19 @@
+html {
+  background-color: #E090BE;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 5rem;
+  font-family: 'Merriweather', serif;
+  color: #8F0453;
+  -webkit-text-stroke: 0.75px #000;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+  margin: 50px;
+  font-size: 2rem;
+}
